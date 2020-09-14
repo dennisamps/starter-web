@@ -16,6 +16,8 @@ This is a simple web project, deplyment can be on any web server or even local f
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Requests for reciew. 
+
 ### Copyright
 
 2020 Dennisamps
