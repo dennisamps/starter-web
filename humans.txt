@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dennis Ampontuah dennis.a@hotmail.com @dennisamps
 
 # THANKS
 
