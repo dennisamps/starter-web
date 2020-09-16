@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for reciew.
 
 ### Copyright
 
-2020 Dennisamps
+2020 Dennisamps all rights reserved
